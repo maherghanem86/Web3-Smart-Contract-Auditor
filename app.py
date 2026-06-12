@@ -66,7 +66,7 @@ class TripleFusionSentinel(nn.Module):
 
 # 3. تحميل الأوزان من مستودعك مباشرة
 print("Downloading the trained model weights...")
-REPO_ID = "maria9659/Multi-Modal-Fusion-Security-Auditor"
+REPO_ID = "maherghanem86/Web3-Smart-Contract-Auditor"
 FILENAME = "hybrid_fusion_results/best_fusion_model.pth"
 
 try:
